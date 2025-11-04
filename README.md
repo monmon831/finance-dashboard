@@ -3,7 +3,8 @@
 Aplikasi web modern untuk mengelola keuangan pribadi dengan fitur lengkap.
 
 ![Dashboard Preview](screenshot.png)
-![Uploading image.png…]()
+<img width="608" height="896" alt="image" src="https://github.com/user-attachments/assets/10206c2d-5083-43b2-b098-d3ac9c692ddd" />
+
 
 ## ✨ Features
 
