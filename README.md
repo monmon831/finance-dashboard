@@ -1,70 +1,98 @@
-# Getting Started with Create React App
+# 💰 Finance Dashboard
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Aplikasi web modern untuk mengelola keuangan pribadi dengan fitur lengkap.
 
-## Available Scripts
+![Dashboard Preview](screenshot.png)
+![Uploading image.png…]()
 
-In the project directory, you can run:
+## ✨ Features
 
-### `npm start`
+- 📊 **Data Visualization** - Interactive charts dengan Recharts
+- 💾 **Data Persistence** - LocalStorage untuk menyimpan data
+- 🎯 **Budget Planner** - Set budget per kategori dengan notifikasi real-time
+- 🔍 **Search & Filter** - Cari dan filter transaksi dengan mudah
+- 📤 **Export to Excel** - Download data transaksi dalam format CSV
+- 🌙 **Dark Mode** - Toggle antara light dan dark theme
+- 📱 **Responsive Design** - Tampil sempurna di semua device
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## 🛠️ Tech Stack
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+- **React.js** - Frontend framework
+- **Recharts** - Data visualization library
+- **Tailwind CSS** - Utility-first CSS framework
+- **Lucide React** - Icon library
+- **LocalStorage API** - Client-side data storage
 
-### `npm test`
+## 🚀 Getting Started
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+### Prerequisites
+- Node.js (v14 atau lebih baru)
+- npm atau yarn
 
-### `npm run build`
+### Installation
+```bash
+# Clone repository
+git clone https://github.com/username-kamu/finance-dashboard.git
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+# Masuk ke folder project
+cd finance-dashboard
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+# Install dependencies
+npm install
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+# Run development server
+npm start
+```
 
-### `npm run eject`
+Aplikasi akan berjalan di `http://localhost:3000`
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+## 📦 Build for Production
+```bash
+npm run build
+```
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## 🌐 Live Demo
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+[View Live Demo](https://your-demo-link.vercel.app)
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+## 📸 Screenshots
 
-## Learn More
+### Light Mode
+![Light Mode](screenshots/light-mode.png)
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+### Dark Mode
+![Dark Mode](screenshots/dark-mode.png)
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+### Budget Planner
+![Budget Planner](screenshots/budget-planner.png)
 
-### Code Splitting
+## 💡 Key Learnings
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+- State management dengan React Hooks
+- Data persistence tanpa database
+- Complex data visualization
+- Responsive UI/UX design
+- Real-time notifications system
 
-### Analyzing the Bundle Size
+## 🔜 Future Enhancements
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+- [ ] User authentication
+- [ ] Backend integration
+- [ ] Multi-currency support
+- [ ] Recurring transactions
+- [ ] Financial goals tracker
+- [ ] Monthly reports PDF export
 
-### Making a Progressive Web App
+## 👨‍💻 Author
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+**Nama Kamu**
+- GitHub: [@monmon831](https://github.com/monmon831)
+- LinkedIn: [linkedin.com/in/username-kamu](https://linkedin.com/in/username-kamu)
 
-### Advanced Configuration
+## 📄 License
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+This project is open source and available under the [MIT License](LICENSE).
 
-### Deployment
+---
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+⭐ Star this repo if you find it helpful!
