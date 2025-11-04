@@ -86,13 +86,9 @@ npm run build
 
 ## 👨‍💻 Author
 
-**Nama Kamu**
+**Alisha Monifa**
 - GitHub: [@monmon831](https://github.com/monmon831)
 - LinkedIn: [linkedin.com/in/username-kamu](https://linkedin.com/in/username-kamu)
-
-## 📄 License
-
-This project is open source and available under the [MIT License](LICENSE).
 
 ---
 
