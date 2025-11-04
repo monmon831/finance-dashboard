@@ -59,13 +59,13 @@ npm run build
 ## 📸 Screenshots
 
 ### Light Mode
-![Light Mode](screenshots/light-mode.png)
+<img width="1890" height="909" alt="image" src="https://github.com/user-attachments/assets/06826e62-8e4e-4094-b256-7474ba33e1ac" />
 
 ### Dark Mode
-![Dark Mode](screenshots/dark-mode.png)
+<img width="1883" height="918" alt="image" src="https://github.com/user-attachments/assets/1390b0af-3a87-4eab-8502-e705d39b2a06" />
 
 ### Budget Planner
-![Budget Planner](screenshots/budget-planner.png)
+<img width="1776" height="746" alt="image" src="https://github.com/user-attachments/assets/209819b1-d497-4095-8f4d-9649128b7943" />
 
 ## 💡 Key Learnings
 
